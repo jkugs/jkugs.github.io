@@ -15,6 +15,6 @@ Built with SDL3 and Emscripten.
 ### Mobile
 
 - **Swipe Right or Left**: Turn selected Silver piece right or left
-- **Swipe up**: Manually fire laser (does _not_ affect game state)
+- **Swipe Up**: Manually fire laser (does _not_ affect game state)
 
 [Enjoy](https://jkugs.github.io/)
