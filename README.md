@@ -4,4 +4,4 @@ This is a WebAssembly version of Khet that uses [KhetAI](https://github.com/jkug
 
 Built with SDL3 and Emscripten.
 
-Enjoy.
+[Enjoy](https://jkugs.github.io/)
