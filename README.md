@@ -1,2 +1,7 @@
 # jkugs.github.io
-Khet SDL WASM
+
+This is a WebAssembly version of Khet that uses [KhetAI](https://github.com/jkugs/khetai) to make moves.
+
+Built with SDL3 and Emscripten.
+
+Enjoy.
