@@ -5,7 +5,7 @@ Built with SDL3 and Emscripten.
 
 ### Desktop Controls
 - **Mouse Click**: Select and move a **Silver** piece  
-- **Arrow ← → Keys**: Rotate the selected **Silver** piece  
+- **Arrow ← → Keys**: Rotate the selected piece  
 - **Spacebar / Tab**: Fire the laser (visual only)  
 
 ### Mobile Controls
