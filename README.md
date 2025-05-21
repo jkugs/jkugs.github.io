@@ -1,20 +1,18 @@
 # jkugs.github.io
 
-This is a WebAssembly version of Khet that uses [KhetAI](https://github.com/jkugs/khetai) to make moves.
-
+A WebAssembly version of Khet powered by [KhetAI](https://github.com/jkugs/khetai).  
 Built with SDL3 and Emscripten.
 
-## Controls
+### Desktop Controls
+- **Mouse Click**: Select and move a **Silver** piece  
+- **Arrow ← → Keys**: Rotate the selected **Silver** piece  
+- **Spacebar / Tab**: Fire the laser (visual only)  
 
-- **Mouse Click**: Select and move Silver piece
-- **Arrow ← → Keys**: Rotate selected Silver piece
-- **KhetAI**: Automatically makes a move after a Silver piece is moved or rotated
-- **Spacebar or Tab**: Manually fire laser (does _not_ affect game state)
-- **Enter**: Trigger a Red (AI) move (does affect game state)
+### Mobile Controls
+- **Tap**: Select and move a **Silver** piece  
+- **Swipe Left / Right**: Rotate the selected piece  
+- **Swipe Up / Down**: Fire the laser (visual only)
 
-### Mobile
-
-- **Swipe Right or Left**: Turn selected Silver piece right or left
-- **Swipe Up or Down**: Manually fire laser (does _not_ affect game state)
+**Note**: KhetAI will automatically respond after you move or rotate a piece. You can also press **Enter** to manually trigger it.
 
 [Enjoy](https://jkugs.github.io/)
