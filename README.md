@@ -3,6 +3,12 @@
 A WebAssembly version of Khet powered by [KhetAI](https://github.com/jkugs/khetai).  
 Built with SDL3 and Emscripten.
 
+### Running Locally
+```bash
+python -m http.server 8000
+```
+Then open: http://localhost:8000
+
 ### Desktop Controls
 - **Mouse Click**: Select and move a **Silver** piece  
 - **Arrow ← → Keys**: Rotate the selected piece  
